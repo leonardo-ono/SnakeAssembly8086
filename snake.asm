@@ -1,6 +1,8 @@
 ; snake game
 ; assembly 8086
 ; written by Leonardo Ono (ono.leo@gmail.com)
+;
+; target OS: DOS (.COM file extension)
 ; use: nasm snake.asm -o snake.com -f bin
 
 		bits 16
